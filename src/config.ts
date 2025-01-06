@@ -1,8 +1,3 @@
-/* eslint-disable @typescript-eslint/indent */
-
-/**
- * Configuration to control DOMPurify behavior.
- */
 export interface Config {
   /**
    * Extend the existing array of allowed attributes.
